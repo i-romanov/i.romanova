@@ -1,2 +1,1 @@
-- 🌱 I’m currently practicing Python 
-- 😄 Pronouns:she/her
+
